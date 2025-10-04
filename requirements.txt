@@ -1,0 +1,17 @@
+# Core data handling
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+
+# Time series analysis
+statsmodels
+pmdarima
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebooks (if you’re using Jupyter)
+jupyter
